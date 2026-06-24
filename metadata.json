@@ -1,0 +1,9 @@
+{
+  "name": "Remix: Reshme Bandhu - Sericulture Assistant",
+  "description": "A multilingual AI-powered companion for silkworm farmers in Karnataka to detect diseases, monitor rearing conditions, and access expert advice.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
